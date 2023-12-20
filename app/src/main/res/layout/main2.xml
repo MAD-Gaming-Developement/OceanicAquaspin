@@ -37,7 +37,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textAlignment="center"
-            android:text="Jackpot Price"
+            android:text="Jackpot Prize"
             android:textColor="#00008B"
             android:textSize="16dp"
             android:textStyle="bold"
