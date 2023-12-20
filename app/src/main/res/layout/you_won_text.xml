@@ -13,7 +13,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="60dp"
         android:text="@string/coins"
-        android:textColor="@android:color/black"
+        android:textColor="#00008B"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -28,7 +28,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:textSize="55dp"
-        android:textColor="@android:color/black"
+        android:textColor="#00008B"
         app:layout_constraintEnd_toEndOf="@+id/textView2"
         app:layout_constraintStart_toStartOf="@+id/textView2"
         app:layout_constraintTop_toTopOf="parent" />

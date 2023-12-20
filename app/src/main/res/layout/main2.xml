@@ -94,7 +94,7 @@
             android:layout_marginTop="5dp"
             android:text="1000"
             android:textAlignment="center"
-            android:textColor="@android:color/white"
+            android:textColor="#00008B"
             android:textSize="23dp"
             android:textStyle="bold" />
 
